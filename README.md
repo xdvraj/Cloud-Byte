@@ -1,6 +1,6 @@
 # Cloud-Byte ☁️🤖
 
-![logo](path/to/logo.png)
+![logo](cloudn.png)
 
 ## Overview
 
