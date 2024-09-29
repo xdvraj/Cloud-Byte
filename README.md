@@ -56,3 +56,8 @@ This project aims to develop a **Decentralized Cloud Storage System** using bloc
 ## Conclusion
 
 This decentralized cloud storage system aims to provide a secure, efficient, and user-controlled alternative to traditional cloud storage solutions. By utilizing blockchain technology, it addresses critical issues of privacy, security, and data integrity while promoting a collaborative storage ecosystem.
+![Screenshot (665)](https://github.com/user-attachments/assets/b766b83e-81d4-45ab-812c-ebaec1c8cfaa)
+![WhatsApp Image 2024-09-29 at 4 36 31 PM](https://github.com/user-attachments/assets/b9819717-f96c-4f83-85f0-e46791e7ba0a)
+![WhatsApp Image 2024-09-29 at 4 36 30 PM](https://github.com/user-attachments/assets/65f41660-54f0-4d31-b9d8-8b44c7616619)
+
+
